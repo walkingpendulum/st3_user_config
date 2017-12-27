@@ -1,0 +1,4 @@
+[
+    { "keys": ["command+b"], "command": "goto_definition" },
+    { "keys": ["ctrl+super+t"], "command": "open_termx_terminal" }
+]
